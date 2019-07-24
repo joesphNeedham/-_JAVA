@@ -3,6 +3,9 @@ package com.shengsiyuan.boot.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.data.redis.core.RedisTemplate;
+
+import javax.annotation.Resource;
 
 
 public class MyConfigBean {
@@ -12,7 +15,6 @@ public class MyConfigBean {
 
     @Value("${myConfig.myObject.myAge}")
     private String myAge;
-
 
     public String getMyName() {
         return myName;
