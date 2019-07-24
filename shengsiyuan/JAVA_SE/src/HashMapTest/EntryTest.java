@@ -2,6 +2,7 @@ package HashMapTest;
 
 import java.util.HashMap;
 import java.util.Set;
+import java.lang.reflect.Array;
 
 public class EntryTest {
     String zz;

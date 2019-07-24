@@ -1,8 +1,9 @@
 package com.shengsiyuan.boot.domain;
 
+import javax.annotation.Resource;
+import java.text.DecimalFormat;
 import java.util.Date;
-
-
+import java.util.HashMap;
 public class Person {
     private int id;
 
@@ -34,4 +35,16 @@ public class Person {
 
     private Date birthday;
 
+    public static void main(String[] args) {
+//        int z = 4;
+//        int b = 4;
+//        DecimalFormat df = new DecimalFormat("###.00");
+//        double zz = Double.valueOf(df.format(10/3.0));
+//        System.out.println(zz);
+        HashMap<String,String> zz = new HashMap<String, String>(){
+            {
+                put("tanbo","daa");
+            }
+        };
+    }
 }
