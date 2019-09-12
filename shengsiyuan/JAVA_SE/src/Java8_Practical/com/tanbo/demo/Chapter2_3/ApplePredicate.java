@@ -1,6 +1,4 @@
-package Java8_Practical.com.tanbo.demo;
-
-import java.util.List;
+package Java8_Practical.com.tanbo.demo.Chapter2_3;
 
 /**
  * @program: JavaSePractice

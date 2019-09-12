@@ -1,4 +1,4 @@
-package Java8_Practical.com.tanbo.demo;
+package Java8_Practical.com.tanbo.demo.Chapter2_3;
 
 public class Apple {
     public static void main(String[] args) {

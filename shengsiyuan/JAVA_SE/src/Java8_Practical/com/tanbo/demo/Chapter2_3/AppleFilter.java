@@ -1,4 +1,4 @@
-package Java8_Practical.com.tanbo.demo;
+package Java8_Practical.com.tanbo.demo.Chapter2_3;
 
 import java.util.ArrayList;
 import java.util.List;
