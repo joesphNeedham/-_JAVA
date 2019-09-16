@@ -9,13 +9,17 @@ package Java8_Practical.com.tanbo.demo.Chapter2_3;
 public class RunnableTest {
     public static void main(String[] args) {
         Runnable r1 = () -> System.out.println("Hello word 1");
-
+        //注意Runnable接口可以看做是什么也不接受，什么也不返回的接口
         Runnable r2 = new Runnable() {
             @Override
             public void run() {
                 System.out.println("Hello World 2");
             }
         };
+
+        process(r1);
+        process(r2);
+        process(() -> System.out.println("Hello world 3"));
 
         
     }
