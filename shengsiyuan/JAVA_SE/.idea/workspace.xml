@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2d5e5be-528c-4bd0-8f69-680f4c402012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/ExcuteRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/MethodReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodReference/MethodReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodReference/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodReference/StudentComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamTest/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamTest/StreamTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamTest/StreamTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamTest/StreamTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamTest/Type.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/CharsetTest/MyCharsetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/CharsetTest/MyCharsetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/CharsetTest/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/CharsetTest/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/HashMapTest/EntryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/HashMapTest/EntryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/AnonymousInnerClassTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/AnonymousInnerClassTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/AnonymousInnerClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/AnonymousInnerClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/MemberInner$Inner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/MemberInner$Inner2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/MemberInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/MemberInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/MemberInnerClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/InnerClass/MemberInnerClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ReflectTest/DumpMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ReflectTest/DumpMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ReflectTest/InvokeTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ReflectTest/InvokeTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/SwitchDataStructure/SwitchSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/SwitchDataStructure/SwitchSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/ExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/ExecutorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/MultiThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/MyTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/PrintChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/PrintChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/PrintNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/PrintNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/ThreadPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/ThreadTest/ThreadPoolTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/RunnableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSePractice/MethodReference/MethodReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSePractice/MethodReference/MethodReferenceTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,110 +24,124 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/ExcuteRound.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java8_Practical/com/tanbo/demo/Chapter2_3/MethodReferenceDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MethodReference/MethodReferenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MethodReference/StudentComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="475" column="29" selection-start-line="475" selection-start-column="29" selection-end-line="475" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Comparator.java">
+        <entry file="file://$PROJECT_DIR$/src/StreamTest/Dish.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MethodReference/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Iterable.java">
+        <entry file="file://$PROJECT_DIR$/src/StreamTest/StreamTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+            <state relative-caret-position="352">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/Consumer.java">
+        <entry file="file://$PROJECT_DIR$/src/StreamTest/StreamTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StreamTest/StreamTest4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
+              <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+              <folding>
+                <element signature="e#59796#59797#0" expanded="true" />
+                <element signature="e#59824#59825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/IntStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="290" column="22" selection-start-line="290" selection-start-column="22" selection-end-line="290" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/IntConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
               <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/person.txt">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Collection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="206">
+              <caret line="579" column="22" selection-start-line="579" selection-start-column="22" selection-end-line="579" selection-end-column="22" />
+              <folding>
+                <element signature="e#26957#26958#0" expanded="true" />
+                <element signature="e#27022#27023#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/Stream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
+              <folding>
+                <element signature="e#45701#45702#0" expanded="true" />
+                <element signature="e#45745#45746#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StreamTest/Type.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -188,6 +182,11 @@
         <option value="$PROJECT_DIR$/src/MethodReference/Student.java" />
         <option value="$PROJECT_DIR$/src/MethodReference/StudentComparator.java" />
         <option value="$PROJECT_DIR$/src/MethodReference/MethodReferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/StreamTest/Type.java" />
+        <option value="$PROJECT_DIR$/src/StreamTest/Dish.java" />
+        <option value="$PROJECT_DIR$/src/StreamTest/StreamTest1.java" />
+        <option value="$PROJECT_DIR$/src/StreamTest/StreamTest2.java" />
+        <option value="$PROJECT_DIR$/src/StreamTest/StreamTest4.java" />
       </list>
     </option>
   </component>
@@ -219,13 +218,46 @@
               <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA_SE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MethodReference" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_SE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSePractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,8 +271,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568539332599" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java8_learn-master" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568824208370" />
+    <property name="last_opened_file_path" value="D:/Github/Algorithm4" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,26 +286,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodReferenceTest">
+  <component name="RunManager" selected="Application.StreamTest4">
     <configuration name="ExcuteRound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java8_Practical.com.tanbo.demo.Chapter2_3.ExcuteRound" />
       <module name="JavaSePractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java8_Practical.com.tanbo.demo.Chapter2_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilteringApples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_Practical.com.tanbo.demo.FilteringApples" />
-      <module name="JavaSePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8_Practical.com.tanbo.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,12 +326,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_Practical.com.tanbo.demo.Chapter2_3.RunnableTest" />
+    <configuration name="StreamTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamTest.StreamTest2" />
       <module name="JavaSePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8_Practical.com.tanbo.demo.Chapter2_3.*" />
+          <option name="PATTERN" value="StreamTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamTest.StreamTest4" />
+      <module name="JavaSePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest4" />
+        <item itemvalue="Application.StreamTest2" />
         <item itemvalue="Application.MethodReferenceTest" />
         <item itemvalue="Application.MethodReferenceDemo" />
         <item itemvalue="Application.ExcuteRound" />
-        <item itemvalue="Application.RunnableTest" />
-        <item itemvalue="Application.FilteringApples" />
       </list>
     </recent_temporary>
   </component>
@@ -340,16 +372,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568446100983</updated>
-      <workItem from="1568446105826" duration="12197000" />
+      <workItem from="1568446105826" duration="17944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35382000" />
+    <option name="totallyTimeSpent" value="41129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="6" width="1915" height="1047" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19407009" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -368,7 +399,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26725084" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2924425" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -612,9 +643,112 @@
     <entry file="file://$PROJECT_DIR$/src/MethodReference/MethodReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamTest/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamTest/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="579" column="22" selection-start-line="579" selection-start-column="22" selection-end-line="579" selection-end-column="22" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamTest/StreamTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/IntConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="290" column="22" selection-start-line="290" selection-start-column="22" selection-end-line="290" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamTest/StreamTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="1560" column="22" selection-start-line="1560" selection-start-column="22" selection-end-line="1560" selection-end-column="22" />
+          <folding>
+            <element signature="e#59796#59797#0" expanded="true" />
+            <element signature="e#59824#59825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreamTest/StreamTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
+          <folding>
+            <element signature="e#45701#45702#0" expanded="true" />
+            <element signature="e#45745#45746#0" expanded="true" />
           </folding>
         </state>
       </provider>
