@@ -1,13 +1,6 @@
 package StreamTest;
 
 
-/**
- * @ClassName Dish
- * @Description TODO
- * @Author zc-cris
- * @Version 1.0
- **/
-
 public class Dish {
 
     private String name;
